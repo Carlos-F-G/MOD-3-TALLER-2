@@ -2,6 +2,8 @@
 
 implementación de funcionES en el sitio web de un hospital privado utilizando JavaScript, HTML, CSS (SASS) y conceptos como ciclos, validaciones, y manejo de eventos.
 
+##
+##
 
 ## **Requisitos de evalucación **
 
