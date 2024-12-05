@@ -1,11 +1,11 @@
 # Proyecto: Hospital Web - Evaluación M3 - Taller 2
 
-implementación de funcionES en el sitio web de un hospital privado utilizando JavaScript, HTML, CSS (SASS) y conceptos como ciclos, validaciones, y manejo de eventos.
+implementación de funciones en el sitio web de un hospital privado utilizando JavaScript, HTML, CSS (SASS) y conceptos como ciclos, validaciones, y manejo de eventos.
 
 ##
 ##
 
-## **Requisitos de evalucación **
+
 
 ### **1. Configuración y Entorno**
 - **Configuración del entorno de trabajo:**
